@@ -1,6 +1,7 @@
 [![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/catsdogs_game_bot/join?startapp=1197825376)
 
 #  AUTO FARM FOR CatsVSDogsBot 🚀
+![start_catsdogs](https://github.com/user-attachments/assets/86af32a4-b6da-4cb1-8b22-8aed568b0531)
 
 
 # 🔥🔥 PYTHON version must be 3.10 🔥🔥
